@@ -19,4 +19,4 @@ A desktop application for managing the daily work of a retail super shop. Built 
 3. Build and run the project.
 
 ## Author
-Md. Moinul Islam Mahin, CSE, American International University-Bangladesh (AIUB)# SuperShopManagement
+MD. Moinul Islam Mahin, CSE, American International University-Bangladesh (AIUB)# SuperShopManagement
